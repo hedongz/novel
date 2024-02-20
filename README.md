@@ -7,15 +7,11 @@ novel是一套基于时下**最新** Java 技术栈 Spring Boot 3 + Vue 3 开发
 
 - MySQL 8.0
 - Redis 7.0
-- Elasticsearch 8.2.0（可选）
-- RabbitMQ 3.10.2（可选）
-- XXL-JOB 2.3.1（可选）
+- Elasticsearch 8.2.0
+- RabbitMQ 3.10.2
+- XXL-JOB 2.3.1
 - JDK 17
 - Maven 3.8
-- IntelliJ IDEA 2021.3（可选）
-- Node 16.14
-
-**注：Elasticsearch、RabbitMQ 和 XXL-JOB 默认关闭，可通过 application.yml 配置文件中相应的`enable`配置属性开启。**
 
 ## 后端技术选型
 
@@ -95,6 +91,11 @@ io
             |   +- applet -- 小程序接口
             |   +- open -- 开放接口，供第三方调用 
 ```
+
+## 技术架构
+
+![img](https://raw.githubusercontent.com/hedongz/imgs/main/typora/202402210330867.png)
+
 
 ## 截图
 
