@@ -37,10 +37,7 @@ novel是一套基于时下**最新** Java 技术栈 Spring Boot 3 + Vue 3 开发
 | Sentinel            |     1.8.4      | 流量控制组件              | https://github.com/alibaba/Sentinel                  |                               [进入](https://github.com/alibaba/Sentinel/wiki/%E4%B8%BB%E9%A1%B5)                               |
 | Springdoc-openapi   |     2.0.0      | Swagger 3 接口文档自动生成  | https://github.com/springdoc/springdoc-openapi                  |                                                 [进入](https://springdoc.org/)                                                  |
 | Spring Boot Admin   |     3.0.0-M1      | 应用管理和监控             | https://github.com/codecentric/spring-boot-admin                  |                                [进入](https://codecentric.github.io/spring-boot-admin/3.0.0-M1)                                 |
-| Undertow            |  2.2.17.Final  | Java 开发的高性能 Web 服务器 | https://undertow.io |                                         [进入](https://undertow.io/documentation.html)                                          |
-| Docker              |       -        | 应用容器引擎              | https://www.docker.com/                 |                                                               -                                                               |
-| Jenkins             |       -        | 自动化部署工具             | https://github.com/jenkinsci/jenkins    |                                                               -                                                               |
-| Sonarqube           |       -        | 代码质量控制              | https://www.sonarqube.org/              |                                                               -                                                               |
+| Docker              |       -        | 应用容器引擎              | https://www.docker.com/                 |                                                               -                                                                                                                 |
 
 **注：更多热门新技术待集成。**
 
